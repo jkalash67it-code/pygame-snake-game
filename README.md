@@ -1,5 +1,7 @@
 # PySnake Game 🎮
 “A classic Snake Game mini project built using Python and Pygame with sound effects and scoring.”
+
+
 Created By -> Kalash Praful Jain RN-367 SY-IT-A 
 
 ## Aim
