@@ -1,5 +1,6 @@
 # PySnake Game 🎮
 “A classic Snake Game mini project built using Python and Pygame with sound effects and scoring.”
+Created By -> Kalash Praful Jain RN-367 SY-IT-A 
 
 ## Aim
 To design and develop a Snake Game using Python (Pygame) and OOP principles.
@@ -25,8 +26,10 @@ A simple and interactive Snake Game built using the Pygame library. The player c
 -Initially, collisions with walls and self-tail were not working correctly due to logic placement in update loop.
 -The score variable was not incrementing properly after eating food.
  -Encountered delays in playing sound effects due to multiple overlapping pygame.mixer calls.
-- Difficulty in github installation and setup.
+- Difficulty in github installation and setup.                                       
+# What Did I Learn 
+-Learned The OOP Concepts.
+-Learned Code Organization And Modularity
+-Learned The Event Handling Process Which is used to detect keyboard inputs like arrow keys.
 
-  AUTHOR:Kalash Praful Jain , Roll NO - 367 , SY-IT-A [Worked on this project as a single person]
-  
 
