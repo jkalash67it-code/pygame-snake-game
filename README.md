@@ -2,7 +2,7 @@
 “A classic Snake Game mini project built using Python and Pygame with sound effects and scoring.”
 
 
-Created By -> Kalash Praful Jain RN-367 SY-IT-A 
+Created By -> Kalash Praful Jain RN-367 SY-IT-A [Solo Project] 
 
 ## Aim
 To design and develop a Snake Game using Python (Pygame) and OOP principles.
